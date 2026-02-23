@@ -79,4 +79,5 @@ int main() {
 
 Output:
 
-<img width="822" height="291" alt="image" src="https://github.com/user-attachments/assets/de918723-4b8c-49b6-a464-50b63ddc58e0" />
+<img width="1920" height="1198" alt="Online C Compiler - Programiz - Google Chrome 23-02-2026 08_46_02" src="https://github.com/user-attachments/assets/edab3a2d-c704-4202-88a0-085780a31916" />
+
